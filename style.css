@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    overflow-x: hidden;
+    background-image: linear-gradient(#ffffff, #008631);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    background-image: linear-gradient(#ffffff, #f0f0f0);
+    overflow-wrap: break-word;
+    padding: 15px;              
+    margin-bottom: 10px;        
+    border-radius: 5px;         
+}
+
+h1 {
+    background-image: linear-gradient(#ffffff, #00c04b);
+}
+
+h7 {
+    font-weight: bold;
+}
